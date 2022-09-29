@@ -1546,6 +1546,15 @@ position: relative;
     -ms-transition: var(--main-transition);
     -o-transition: var(--main-transition);
 }
+.footer .box .social .facebook:hover {
+    background-color: #1877f2;
+}
+.footer .box .social .twitter:hover{
+    background-color: #1da1f2;
+}
+.footer .box .social .youtube:hover{
+    background-color: #ff0000;
+}
 .footer .box .text{
     line-height: 2;
     color: #b9b9b9;
